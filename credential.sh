@@ -1,0 +1,1 @@
+export NPM_AUTH="12wjsajjsjxkzzpzpisjssmalaapapapazzzk"
